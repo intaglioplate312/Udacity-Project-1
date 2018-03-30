@@ -1,0 +1,39 @@
+/* add your CSS here */
+
+body {
+    width: 500px;
+    height: 900px;
+    margin: auto;
+}
+
+div {
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    padding: 15px;
+}
+
+img {
+    margin-bottom: 15px
+}
+
+h3 {
+    border-width: 1px;
+    border-color: gray;
+    padding-top: 5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: none;
+    text-align: left;
+    padding: 0px;
+}
+
+ul li span {
+    font-weight: bold;
+}
+
+.fact {
+    font-style: italic;
+}
